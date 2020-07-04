@@ -23,10 +23,10 @@ export default function Country(props: Props) {
                 </Feed.Event>
                 <Feed.Event>
                   <Feed.Content>
-                    <Feed.Date content='Mortes' />
+                    <Feed.Date content='Novas Mortes' />
                     <Feed.Summary>{country.NewDeaths}</Feed.Summary>
                   </Feed.Content>
-                </Feed.Event>
+                </Feed.Event>                
                 <Feed.Event>
                   <Feed.Content>
                     <Feed.Date content='Recuperações' />

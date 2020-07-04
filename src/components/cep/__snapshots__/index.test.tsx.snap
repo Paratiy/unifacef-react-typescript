@@ -5,17 +5,31 @@ Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <details>
-        <summary />
-        <strong />
-      </details>
+      <div
+        class="ui segment"
+      >
+        <div
+          class="ui active loader"
+        />
+        <img
+          class="ui image"
+          src="https://react.semantic-ui.com/images/wireframe/short-paragraph.png"
+        />
+      </div>
     </div>
   </body>,
   "container": <div>
-    <details>
-      <summary />
-      <strong />
-    </details>
+    <div
+      class="ui segment"
+    >
+      <div
+        class="ui active loader"
+      />
+      <img
+        class="ui image"
+        src="https://react.semantic-ui.com/images/wireframe/short-paragraph.png"
+      />
+    </div>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

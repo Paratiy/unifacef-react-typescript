@@ -15,7 +15,7 @@ export default class LoginStore {
   @action handleSubmit = () => {
 
     const credentials = {
-      email: 'jr_acn@yahoo.com.br',
+      email: 'cmscontas@gmail.com',
       password: 'batata'
     };
 
